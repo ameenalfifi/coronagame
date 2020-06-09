@@ -1584,7 +1584,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 734793306}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.28, y: -2.74, z: 0}
+  m_LocalPosition: {x: 2.18, y: -1.84, z: 0}
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children:
   - {fileID: 134452806}
@@ -2670,7 +2670,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1346495694}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.93, y: -4.2, z: 0}
+  m_LocalPosition: {x: -10.64, y: -4.14, z: 0}
   m_LocalScale: {x: 0.4111871, y: 0.3824672, z: 1}
   m_Children:
   - {fileID: 667312453}
@@ -2781,6 +2781,8 @@ MonoBehaviour:
   controller: {fileID: 1346495700}
   animator: {fileID: 1346495695}
   runspeed: 60
+  potis: {fileID: 0}
+  potionvalueone: 1
 --- !u!114 &1346495702
 MonoBehaviour:
   m_ObjectHideFlags: 0

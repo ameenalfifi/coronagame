@@ -28,6 +28,7 @@ public class scriptpotion : MonoBehaviour
         if (other.gameObject.CompareTag("AstroStay1")) {
 
             gamemedicinetext.Changepotuon(potionvalue);
+           
             Destroy(gameObject);
 
 
